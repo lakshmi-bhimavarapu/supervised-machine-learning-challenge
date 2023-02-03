@@ -1,7 +1,5 @@
 # Supervised-machine-learning-challenge
 
-# Supervised Machine Learning Objectives
-
 * Explain how machine learning algorithms are used in data analytics.
 * Create training and testing sets from a specified dataset.
 * Implement linear and logistic regressions by using scikit-learn.
